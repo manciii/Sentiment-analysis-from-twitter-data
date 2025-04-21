@@ -1,6 +1,7 @@
 # Sentiment-analysis-from-twitter-data
 ### This project addresses a Natural Language Processing (NLP) challenge focused on Sentiment Analysis, where machine learning models are leveraged to classify tweets into positive and negative categories. The process integrates text mining, text analysis, and data analysis techniques, culminating in insightful data visualizations.
 
+
 # Introduction
 ### Natural Language Processing (NLP) stands at the forefront of modern data science innovation, with sentiment analysis emerging as one of its most impactful applications. From influencing opinion polls to shaping robust marketing strategies, this field has transformed the decision-making landscape across industries. As such, a solid grasp of sentiment analysis is essential for every aspiring data scientist.
 
@@ -9,6 +10,7 @@
 ### In this project, we’ll walk through a structured pipeline to solve a sentiment analysis problem. We'll begin by preprocessing and cleaning the raw tweet data, ensuring it's ready for deep analysis. Then, we'll dive into exploratory analysis to gain contextual understanding. Following this, we’ll engineer numerical features from the text, and finally, train machine learning models to accurately classify the sentiment embedded in each tweet.
 
 ### Sentiment analysis is not just technically fascinating—it’s one of the most dynamic and engaging areas within NLP. I'm thrilled to dive into this challenge and explore the power of language with you
+
 
 # Understand the Problem Statement
 ### Before diving into the dataset, it's imperative to have a clear understanding of the problem statement, as it defines the strategic direction of the entire project.
